@@ -1,0 +1,4 @@
+{:paths   ["src"]
+ :deps    {org.clojure/clojure        {:mvn/version "1.10.1" :scope "provided"}
+           io.replikativ/konserve     {:mvn/version "0.5.1"}
+           io.replikativ/hasch        {:mvn/version "0.3.7"}}}

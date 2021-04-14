@@ -1,0 +1,15 @@
+/.idea/
+/fulcro-rad-kvstore*.jar
+/hs_err*.log
+target
+/fulcro-rad-kvstore.iml
+node_modules
+.shadow-cljs
+.cpcache
+resources/public/js
+.nrepl-port
+/package-lock.json
+/assert.txt
+/err.txt
+/projectFilesBackup/
+.lsp
